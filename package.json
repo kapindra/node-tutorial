@@ -4,7 +4,7 @@
   "description": "Learning Node Tutorial",
   "main": "1CreateServer.js",
   "scripts": {
-    "dev": "nodemon 3FileSystem.js"
+    "dev": "nodemon 7Routes.js"
   },
   "keywords": [
     "nodejs"
